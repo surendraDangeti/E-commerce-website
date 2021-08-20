@@ -1,0 +1,319 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.imagelogo {
+    width: 250px;
+
+}
+
+.products-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.products-card {
+    height: 328px;
+    padding: 20px;
+    border-radius: 16px;
+}
+
+.headphones-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.laptop-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.drones {
+    background-image: url('https://res.cloudinary.com/dbmvwqck0/image/upload/v1628067147/samples/ecommerce/HLB14XKZU9zqK1RjSZFpq6ykSXXaS_gq0d3p.jpg');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.cameras {
+    background-image: url(' https://res.cloudinary.com/dbmvwqck0/image/upload/v1628067693/samples/ecommerce/Canon-G7XII-SOURCE-Canon_cmqfmj.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.playtstation {
+    background-image: url('https://res.cloudinary.com/dbmvwqck0/image/upload/v1628072045/Gear-PS5-src-Sony_ezszox.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.Airpods {
+    background-image: url('https://res.cloudinary.com/dbmvwqck0/image/upload/v1628072576/og_overview__emcyyfxcc9me_wechat_mdozbg.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.products-card-title {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.products-card-description {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.products-card-button {
+    color: #ff9f00;
+    background-color: #ffffff;
+    font-family: "Roboto";
+    font-size: 16px;
+    width: 134px;
+    height: 48px;
+    border-width: 0;
+    border-radius: 100px;
+}
+
+.products-card-modal-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.products-card-modal-description {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.products-card-modal-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.products-card-modal-list-item {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.products-card-modal-list-item-category {
+    font-weight: bold;
+}
+
+.products-section-link {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 700;
+}
+
+
+.services-section-heading {
+    color: #183b56;
+    font-family: Tahoma;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.services-section-description {
+    color: #616c7c;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.services-card-image {
+    width: 80px;
+}
+
+.services-card-title {
+    color: #1f2933;
+    font-family: "Tahoma";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.services-card-description {
+    color: #7b8794;
+    font-size: 14px;
+}
+
+.explore-section {
+    background-color: #f5f7fa;
+}
+
+.explore-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.explore-card {
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+
+.explore-card-image-container {
+    padding: 10px;
+}
+
+.explore-card-image {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.explore-card-title {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.explore-card-product-title {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.explore-card-link {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.pg-container {
+    background-color: #f5f7fa;
+}
+
+.button {
+    color: #ff9f00;
+    border: solid #ff9f00 2px;
+    height: 45px;
+    width: 150px;
+    background-color: transparent;
+    font-size: 18px;
+
+}
+
+.ecommerce-footer-section {
+    background-color: #0d2436;
+}
+
+.ecommerce-logo {
+    width: 163px;
+    height: 56px;
+}
+
+.ecommerce-footer-section-icon-container {
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 15px;
+    background-color: #152c3e;
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+.icon {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.ecommerce-footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.ecommerce-footer-section-heading {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.ecommerce-footer-section-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.ecommerce-footer-section-list-item {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+
+.hr-line {
+    background-color: #5a7184;
+}
+
+.ecommerce-footer-section-copyright {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+
+.Trandingpg-container {
+    background-color: white;
+}
+
+.Tranding-pg-heading {
+    font-size: 36px;
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.Tranding-pg-sub-heading {
+    color: #959ead;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 15px;
+}
+
+.Trandingcard-heading {
+    font-size: 28px;
+    font-weight: bold;
+    color: #183b56;
+}
+
+.Trandingcard-description {
+    font-size: 19px;
+    color: #959ead;
+    font-weight: 500;
+}
+
+.Trandingreadmore-text {
+    color: #ff9f00;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.Trandingcard-image {
+    margin-left: 0px;
+    width: 100%;
+
+
+}
+
+.CONTACT-heading {
+    font-size: 24px;
+    font-family: Roboto;
+}
